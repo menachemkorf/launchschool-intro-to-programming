@@ -1,4 +1,4 @@
-# excersizes 1, 3, 4
+# exercises 1, 3, 4
 
 puts "Hi, what's your first name?"
 first_name = gets.chomp

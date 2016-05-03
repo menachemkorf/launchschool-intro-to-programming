@@ -4,4 +4,5 @@
 fname = "John"
 lname = "Smith"
 
+puts fname + " " + lname
 puts "#{fname} #{lname}"

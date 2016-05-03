@@ -1,1 +1,1 @@
-# introduction to programming exersizes
+# introduction to programming exercises
