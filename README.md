@@ -1,3 +1,3 @@
 # introduction to ruby
 
-solutions to the exercises from the book introduction to programming by Launch School.
+solutions to the exercises from the book Introduction to Programming by Launch School.
